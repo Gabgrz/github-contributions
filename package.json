@@ -1,0 +1,14 @@
+{
+  "name": "@gabgrz/github-contributions",
+  "main": "81de31a7e8b0924e@456.js",
+  "version": "456.0.0",
+  "homepage": "https://observablehq.com/@gabgrz/github-contributions",
+  "author": {
+    "name": "Gabriel Garoz",
+    "url": "https://observablehq.com/@gabgrz"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
